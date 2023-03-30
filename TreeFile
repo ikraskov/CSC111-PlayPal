@@ -1,0 +1,7 @@
+from __future__ import annotations
+from typing import Optional
+
+# Comment out this line when you aren't using check_contracts
+from python_ta.contracts import check_contracts
+
+GAME_START_MOVE = '*'
